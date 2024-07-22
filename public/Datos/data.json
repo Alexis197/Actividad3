@@ -1,0 +1,22 @@
+ [
+    { "id": 1, "text1": "Alexis", "text2": "Caballero Vazquez", "icon": "fa-solid fa-coffee" },
+    { "id": 2, "text1": "Texto 3", "text2": "Texto 4", "icon": "fa-solid fa-apple-alt" },
+    { "id": 3, "text1": "Texto 5", "text2": "Texto 6", "icon": "fa-solid fa-car" },
+    { "id": 4, "text1": "Texto 7", "text2": "Texto 8", "icon": "fa-solid fa-bell" },
+    { "id": 5, "text1": "Texto 9", "text2": "Texto 10", "icon": "fa-solid fa-bicycle" },
+    { "id": 6, "text1": "Texto 11", "text2": "Texto 12", "icon": "fa-solid fa-book" },
+    { "id": 7, "text1": "Texto 13", "text2": "Texto 14", "icon": "fa-solid fa-camera" },
+    { "id": 8, "text1": "Texto 15", "text2": "Texto 16", "icon": "fa-solid fa-dog" },
+    { "id": 9, "text1": "Texto 17", "text2": "Texto 18", "icon": "fa-solid fa-envelope" },
+    { "id": 10, "text1": "Texto 19", "text2": "Texto 20", "icon": "fa-solid fa-fish" },
+    { "id": 11, "text1": "Texto 21", "text2": "Texto 22", "icon": "fa-solid fa-globe" },
+    { "id": 12, "text1": "Texto 23", "text2": "Texto 24", "icon": "fa-solid fa-heart" },
+    { "id": 13, "text1": "Texto 25", "text2": "Texto 26", "icon": "fa-solid fa-home" },
+    { "id": 14, "text1": "Texto 27", "text2": "Texto 28", "icon": "fa-solid fa-key" },
+    { "id": 15, "text1": "Texto 29", "text2": "Texto 30", "icon": "fa-solid fa-lightbulb" },
+    { "id": 16, "text1": "Texto 31", "text2": "Texto 32", "icon": "fa-solid fa-lock" },
+    { "id": 17, "text1": "Texto 33", "text2": "Texto 34", "icon": "fa-solid fa-map" },
+    { "id": 18, "text1": "Texto 35", "text2": "Texto 36", "icon": "fa-solid fa-mobile-alt" },
+    { "id": 19, "text1": "Texto 37", "text2": "Texto 38", "icon": "fa-solid fa-music" },
+    { "id": 20, "text1": "Texto 39", "text2": "Texto 40", "icon": "fa-solid fa-paper-plane" }
+  ]
